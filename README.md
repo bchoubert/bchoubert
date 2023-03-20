@@ -7,7 +7,6 @@ Web Developer @ [Amalia](https://amalia.io)!
 # Profile
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bchoubert&hide=php,smarty&langs_count=8&layout=compact)
-![Time passed, by language](https://github-readme-stats.vercel.app/api/wakatime?username=@bchoubert&v=2)
 
 # Projects
 
