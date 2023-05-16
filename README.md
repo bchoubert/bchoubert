@@ -46,3 +46,8 @@ Web Developer @ [Amalia](https://amalia.io)!
 
 ![LogTrack](https://github-readme-stats.vercel.app/api/pin/?username=LogTrack&repo=transportation-font&show_owner=true&icon_color=113885&border_color=113885)
 
+###
+
+# Developer Card
+
+<a href="https://app.daily.dev/bchoubert"><img src="https://api.daily.dev/devcards/4aea6ba7b50f4ee8a1541a53c4f423f4.png?r=z3l" width="400" alt="Bertrand Choubert's Dev Card"/></a>
