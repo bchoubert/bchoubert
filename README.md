@@ -1,4 +1,4 @@
-Web Developer @ [Amalia](https://amalia.io)!
+Web Developer @ European Commission!
 
 <div align="center">
   <img height="200" src="https://www.chbe.fr/images/bertrandx600.png"  />
