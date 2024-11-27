@@ -49,4 +49,4 @@ Web Developer @ European Commission!
 
 # Developer Card
 
-<a href="https://app.daily.dev/bchoubert"><img src="https://api.daily.dev/devcards/4aea6ba7b50f4ee8a1541a53c4f423f4.png?r=z3l" width="400" alt="Bertrand Choubert's Dev Card"/></a>
+<a href="https://app.daily.dev/bchoubert"><img src="https://api.daily.dev/devcards/v2/6yCkIe29Esey1FVa4Bb2i.png?type=default&r=44k" width="356" alt="Bertrand Choubert's Dev Card"/></a>
